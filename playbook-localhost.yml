@@ -77,7 +77,6 @@
       - { name: skitch }
       - { name: seashore }
       - { name: atom }
-      - { name: kobito }
       - { name: vagrant }
       - { name: virtualbox }
       - { name: alfred }
@@ -90,6 +89,7 @@
       - { name: bartender }
       - { name: postico }
       - { name: rubymine }
+      - { name: dropbox }
     gem_packages:
       - { name: homesick }
 
