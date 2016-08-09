@@ -60,6 +60,7 @@
       - { name: macvim, options: 'override-system-vim', 'with-lua', 'with-cscope' }
       - { name: terminal-notifier }
       - { name: zsh-syntax-highlighting }
+      - { name: rbenv }
     homebrew_cask_packages:
       - { name: amethyst }
       - { name: iterm2 }
