@@ -62,6 +62,7 @@
       - { name: zsh-syntax-highlighting }
       - { name: rbenv }
       - { name: nodebrew }
+      - { name: pyenv }
     homebrew_cask_packages:
       - { name: amethyst }
       - { name: iterm2 }
