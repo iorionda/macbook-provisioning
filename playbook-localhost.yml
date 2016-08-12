@@ -95,6 +95,7 @@
       - { name: postico }
       - { name: rubymine }
       - { name: dropbox }
+      - { name: boostnote }
     gem_packages:
       - { name: homesick }
 
