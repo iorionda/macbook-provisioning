@@ -65,6 +65,7 @@
       - { name: nodebrew }
       - { name: pyenv }
       - { name: ghq }
+      - { name: thefuck }
     homebrew_cask_packages:
       - { name: amethyst }
       - { name: iterm2 }
